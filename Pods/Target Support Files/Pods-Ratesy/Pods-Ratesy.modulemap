@@ -1,0 +1,6 @@
+framework module Pods_Ratesy {
+  umbrella header "Pods-Ratesy-umbrella.h"
+
+  export *
+  module * { export * }
+}
